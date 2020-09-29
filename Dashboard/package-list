@@ -1,0 +1,13 @@
+Test
+in.com.psi.dashboard.controller
+in.com.psi.dashboard.convertor
+in.com.psi.dashboard.dao
+in.com.psi.dashboard.dao.impl
+in.com.psi.dashboard.entity
+in.com.psi.dashboard.entity.VO
+in.com.psi.dashboard.exception
+in.com.psi.dashboard.filter
+in.com.psi.dashboard.manager
+in.com.psi.dashboard.manager.impl
+in.com.psi.dashboard.util
+in.com.psi.mystay.controller
